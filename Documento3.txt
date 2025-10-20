@@ -1,0 +1,17 @@
+echo "# webapp_practica2" >> README.md
+
+git init
+git add .
+
+git commit -m "index"
+
+git branch -M main
+git remote add origin https://github.com/Leonardo251207/webapp_practica2.git
+git push -u origin main
+
+///////////////////////
+
+
+git remote add origin https://github.com/Leonardo251207/webapp_practica2.git
+git branch -M main
+git push -u origin main
